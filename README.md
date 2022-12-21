@@ -1,4 +1,4 @@
-#Quantitative Value Trading 
+# Quantitative Value Trading
 The following repository contains the second project I did with guidance from @nickmccullum and his "Algorithmic Trading Using Python" course on youtube. <br>
 I have taken the initiative to make my own changes: <br>
 -- I have implemented a screening process to delete any companies for which any metrics are not returned from the API call. 
